@@ -1,18 +1,18 @@
-<div class="flex items-center justify-center h-screen ">
-    <div class="bg-gray-50 py-10 rounded-lg shadow-lg w-full md:w-4/5 h-full lg:h-3/4">
+<div class="flex items-center justify-center xl:h-screen ">
+    <div class="bg-gray-50 py-10 rounded-lg shadow-lg w-full md:w-4/5 h-auto lg:h-auto">
         <p class="text-center text-3xl font-bold text-gray-600 pt-6 pb-12 ">Start Your Digital Transformation</p>
-        <div class="grid sm:grid-cols-2 justify-items-center gap-4 lg:grid-cols-4 lg:pr-20 lg:pl-20">            
-            <div class="shadow-lg rounded-2xl w-64 bg-white dark:bg-gray-800 relative p-4 border-4 border-white hover:border-blue-100 ">
-                <p class="text-gray-800 dark:text-gray-50 text-xl font-medium mb-4">
+        <div class="grid md:grid-cols-2 justify-items-center gap-4 xl:grid-cols-4 lg:pr-20 lg:pl-20">            
+            <div class="shadow-lg rounded-2xl w-64 bg-white  relative p-4 border-4 border-white hover:border-blue-100 ">
+                <p class="text-gray-800  text-xl font-medium mb-4">
                     Basic
                 </p>
-                <p class="text-gray-900 dark:text-white text-3xl font-bold">
+                <p class="text-gray-900  text-3xl font-bold">
                     ₹2300
                     <span class="text-gray-400 text-sm">
                        +240 / month
                     </span>
                 </p>
-                <p class="text-gray-600 dark:text-gray-100  text-xs mt-4">
+                <p class="text-gray-600   text-xs mt-4">
                     For most businesses that want to optimize web queries.
                 </p>
                 <p class="flex items-center pt-2  font-medium">
@@ -32,17 +32,17 @@
                     Choose plan
                 </button>
             </div>
-            <div class="relative pb-20 shadow-lg rounded-2xl w-64 bg-white dark:bg-gray-800 p-4 border-4 border-white hover:border-blue-100 ">
-                <p class="text-gray-800 dark:text-gray-50 text-xl font-medium mb-4">
+            <div class="relative pb-20 shadow-lg rounded-2xl w-64 bg-white p-4 border-4 border-white hover:border-blue-100 ">
+                <p class="text-gray-800 text-xl font-medium mb-4">
                     Enterprise
                 </p>
-                <p class="text-gray-900 dark:text-white text-3xl font-bold">
+                <p class="text-gray-900 text-3xl font-bold">
                     ₹5500
                     <span class="text-gray-400 text-sm">
                       +540 / month
                     </span>
                 </p>
-                <p class="text-gray-600 dark:text-gray-100  text-xs mt-4">
+                <p class="text-gray-600 text-xs mt-4">
                     For most businesses that want to optimize web queries.
                 </p>
                 <p class="flex items-center pt-2 font-medium">
@@ -76,17 +76,17 @@
                 
             </div>
             
-            <div class="relative shadow-lg rounded-2xl w-64 bg-white dark:bg-gray-800 p-4 border-4 border-white hover:border-blue-100 ">
-                <p class="text-gray-800 dark:text-gray-50 text-xl font-medium mb-4">
+            <div class="relative shadow-lg rounded-2xl w-64 bg-white p-4 border-4 border-white hover:border-blue-100 ">
+                <p class="text-gray-800 text-xl font-medium mb-4">
                     Enterprise
                 </p>
-                <p class="text-gray-900 dark:text-white text-3xl font-bold">
+                <p class="text-gray-900 text-3xl font-bold">
                     ₹6300
                     <span class="text-gray-400 text-sm">
                       +650 / month
                     </span>
                 </p>
-                <p class="text-gray-600 dark:text-gray-100  text-xs mt-4">
+                <p class="text-gray-600 text-xs mt-4">
                     For most businesses that want to optimize web queries.
                 </p>
                 <p class="flex items-center pt-2 font-medium">
@@ -132,17 +132,17 @@
                 </button>
             </div>
 
-            <div class="relative shadow-lg rounded-2xl w-64 bg-white dark:bg-gray-800 p-4 border-4 border-white hover:border-blue-100 ">
-                <p class="text-gray-800 dark:text-gray-50 text-xl font-medium mb-4">
+            <div class="relative shadow-lg rounded-2xl w-64 bg-white p-4 border-4 border-white hover:border-blue-100 ">
+                <p class="text-gray-800 text-xl font-medium mb-4">
                     Enterprise
                 </p>
-                <p class="text-gray-900 dark:text-white text-3xl font-bold">
+                <p class="text-gray-900 text-3xl font-bold">
                     ₹9500
                     <span class="text-gray-400 text-sm">
                       +650 / month
                     </span>
                 </p>
-                <p class="text-gray-600 dark:text-gray-100  text-xs mt-4">
+                <p class="text-gray-600 text-xs mt-4">
                     For most businesses that want to optimize web queries.
                 </p>
                 <p class="flex items-center pt-2 font-medium">
